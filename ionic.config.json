@@ -1,0 +1,8 @@
+{
+  "name": "E-Office Desa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "894c2eee"
+}
